@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Tomás Silva
 
-<!--
-**Tomas-Silva-PT/Tomas-Silva-PT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a **Portuguese software engineer** with an insatiable curiosity for understanding how things work — especially in the world of **automation**.
 
-Here are some ideas to get you started:
+What brings me the most joy is:
+1. Learning a new skill  
+2. Applying it in the real world  
+3. Sharing the knowledge with those around me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Why GitHub?
+
+To me, GitHub is more than just a code repository — it's a **creative lab** where I:
+- Store and organize my ideas 🧠  
+- Share them publicly, hoping they help others 🤝  
+- Build fun projects while learning along the way 🚀  
+
+---
+
+### 🛠️ Current Projects
+
+- [`maisvalias-tool`](https://github.com/Tomas-Silva-PT/maisvalias-tool)  
+  A tool for **Portuguese investors** to calculate and declare capital gains and dividends to the **IRS**.
+
+---
+
+### 🔍 My Philosophy
+
+In every project, I aim to:
+* ⚙️ **Leverage technical expertise** to build robust solutions  
+* 📈 That not only solve today's problems  
+* 🧭 But also anticipate tomorrow’s challenges
