@@ -27,7 +27,4 @@ To me, GitHub is more than just a code repository — it's a **creative lab** wh
 
 ### 🔍 My Philosophy
 
-In every project, I aim to:
-*  **Leverage technical expertise** to build robust solutions  
-*  That not only solve today's problems  
-*  But also anticipate tomorrow’s challenges
+In every project, I aim to leverage technical expertise to build robust solutions that not only solve today's problems but also anticipate tomorrow’s challenges.
