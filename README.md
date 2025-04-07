@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomás Silva
 
-🎯 I'm a **Portuguese software engineer** with an insatiable curiosity for understanding how things work — especially in the world of **automation**.
+I'm a **Portuguese software engineer** with an insatiable curiosity for understanding how things work — especially in the world of **automation**.
 
 What brings me the most joy is:
 1. Learning a new skill  
