@@ -12,9 +12,9 @@ What brings me the most joy is:
 ### 💡 Why GitHub?
 
 To me, GitHub is more than just a code repository — it's a **creative lab** where I:
-- Store and organize my ideas 🧠  
-- Share them publicly, hoping they help others 🤝  
-- Build fun projects while learning along the way 🚀  
+- Store and organize my ideas   
+- Share them publicly, hoping they help others   
+- Build fun projects while learning along the way   
 
 ---
 
@@ -28,6 +28,6 @@ To me, GitHub is more than just a code repository — it's a **creative lab** wh
 ### 🔍 My Philosophy
 
 In every project, I aim to:
-* ⚙️ **Leverage technical expertise** to build robust solutions  
-* 📈 That not only solve today's problems  
-* 🧭 But also anticipate tomorrow’s challenges
+*  **Leverage technical expertise** to build robust solutions  
+*  That not only solve today's problems  
+*  But also anticipate tomorrow’s challenges
